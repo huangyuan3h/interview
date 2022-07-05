@@ -38,7 +38,7 @@ So we just need 512 tables to store user data for this world.
 
 #### when to divided the table:
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (10).png>)
 
 it depends on innodb buffer pool size. the default in mysql is 2 gb. which means it is higher than 2 gb, we should consider to divided the table.
 
@@ -48,7 +48,7 @@ it depends on innodb buffer pool size. the default in mysql is 2 gb. which means
 
 ### 2. Basic concept
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (8).png>)
 
 
 
@@ -56,7 +56,7 @@ it depends on innodb buffer pool size. the default in mysql is 2 gb. which means
 
 ### 3. ER diagram
 
-![basic ER diagram](<.gitbook/assets/image (1).png>)
+![basic ER diagram](<.gitbook/assets/image (2).png>)
 
 ### 4. High level architecture
 
@@ -64,7 +64,7 @@ it depends on innodb buffer pool size. the default in mysql is 2 gb. which means
 
 This is the v1 at very beginning to design.&#x20;
 
-![high level architecture with extended function v2](<.gitbook/assets/image (6).png>)
+![high level architecture with extended function v2](<.gitbook/assets/image (7).png>)
 
 This one is to add ELK and kafka support.
 
@@ -75,15 +75,15 @@ Do you find any problem in these 2 diagram?
 1. hdfs is nice tool for large file
 2. the input and i/o is not divided they are in the same MS
 
-![divided the file service to 2 v3](.gitbook/assets/image.png)
+![divided the file service to 2 v3](<.gitbook/assets/image (1).png>)
 
 
 
-![replace the hdfs to hybrid file system](<.gitbook/assets/image (3).png>)
+![replace the hdfs to hybrid file system](<.gitbook/assets/image (3) (1).png>)
 
 
 
-![detail of file system](<.gitbook/assets/image (5).png>)
+![detail of file system](<.gitbook/assets/image (5) (1).png>)
 
 Why in the first several version, it is based on hadoop hdfs, but it has been change to be managed by different size of file?
 
