@@ -10,11 +10,11 @@ from: [http://aosabook.org/en/distsys.html](http://aosabook.org/en/distsys.html)
 
 
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 ### Divide services
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
 ### Redundancy
 

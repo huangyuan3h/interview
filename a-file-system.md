@@ -38,7 +38,7 @@ So we just need 512 tables to store user data for this world.
 
 #### when to divided the table:
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
 it depends on innodb buffer pool size. the default in mysql is 2 gb. which means it is higher than 2 gb, we should consider to divided the table.
 
@@ -48,7 +48,7 @@ it depends on innodb buffer pool size. the default in mysql is 2 gb. which means
 
 ### 2. Basic concept
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
 
 
@@ -60,7 +60,7 @@ it depends on innodb buffer pool size. the default in mysql is 2 gb. which means
 
 ### 4. High level architecture
 
-![high level architecture V1](<.gitbook/assets/image (4).png>)
+![high level architecture V1](<.gitbook/assets/image (4) (1).png>)
 
 This is the v1 at very beginning to design.&#x20;
 
