@@ -56,7 +56,7 @@ it depends on innodb buffer pool size. the default in mysql is 2 gb. which means
 
 ### 3. ER diagram
 
-![basic ER diagram](<.gitbook/assets/image (2).png>)
+![basic ER diagram](<.gitbook/assets/image (2) (1).png>)
 
 ### 4. High level architecture
 
