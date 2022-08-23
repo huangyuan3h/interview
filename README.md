@@ -10,7 +10,7 @@
 \----
 
 1. a new daddy and have a 2 month daughter
-2. love traveling and adventure
+2. love reading, traveling and adventure
 3. have dreams and want to see this world getting better
 
 ## Why LemmaTree?
