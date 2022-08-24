@@ -27,7 +27,8 @@
 
 1. Similar business compare with eBay Classifieds group (hope to share the business model)
 2. Cross team experience, understand the market/environment in South Africa and Mexcio.
-3. You need smart people with globalization business sense
+3. Multi-tenant experience.&#x20;
+4. You need smart people with globalization business sense.
 
 ![](<.gitbook/assets/image (2).png>)
 
