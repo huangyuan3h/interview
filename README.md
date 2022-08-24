@@ -15,10 +15,11 @@
 
 ## Why LemmaTree?
 
-1. startup company
-2. block chain&#x20;
-3. could work with smart person
-4. using the technology I am interested
+1. selling water in gold rush
+2. startup company
+3. block chain&#x20;
+4. could work with smart person
+5. using the technology I am interested
 
 
 
@@ -26,6 +27,7 @@
 
 1. Similar business compare with eBay Classifieds group (hope to share the business model)
 2. Cross team experience, understand the market/environment in South Africa and Mexcio.
+3. You need smart people with globalization business sense
 
 ![](<.gitbook/assets/image (2).png>)
 
