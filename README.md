@@ -1,5 +1,7 @@
 # LemmaTree
 
+_**As a sailer, I am looking for a smart captain and a swift ship, cause we are going to conquer this world .**_
+
 ### Self-introduction
 
 ![Lombard street](.gitbook/assets/1.jpeg)
@@ -18,7 +20,7 @@
 1. selling water in gold rush
 2. startup company
 3. block chain&#x20;
-4. could work with smart person
+4. work with smart people
 5. using the technology I am interested
 
 
@@ -32,8 +34,5 @@
 
 ![](<.gitbook/assets/image (2).png>)
 
-## Questions
-
-1. Future of LemmaTree/Trustana
-2. The business model&#x20;
+##
 
